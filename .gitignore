@@ -1,0 +1,12 @@
+*.lock
+*.map
+*.cache
+*.log
+*.lnk
+*.scc
+*.tmp*
+*.rar
+*.zip
+*.bkp
+*.phar
+vendor

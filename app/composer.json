@@ -1,0 +1,8 @@
+{
+	"require": {
+		"mikecao/flight": "^1.2"
+	},
+	"config": {
+		"vendor-dir": "../vendor"
+	}
+}
